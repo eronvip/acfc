@@ -1,5 +1,6 @@
 {
   "expo": {
+    "entryPoint": "./src/index.js",
     "name": "acfc",
     "slug": "acfc",
     "version": "1.0.0",
@@ -27,6 +28,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }

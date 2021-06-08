@@ -27,15 +27,15 @@ export const styles = StyleSheet.create({
   },
   headerTop: {
     width: "100%",
-    height: 55,
+    height: 51,
     paddingTop: 5,
     display: "flex",
     alignItems: "center",
     justifyContent: "center"
   },
   headerLogo: {
-    width: "100%",
-    height: "100%",
+    width: 158,
+    height: 46,
     resizeMode: 'stretch'
   }
 });
